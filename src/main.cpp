@@ -4,6 +4,7 @@
 
 // neopixels_nodelay_button_eeprom
 // by: Truglodite
+// 4/20/2025
 // Non-blocking neopixel controller with a button to select patterns and wear leveling eeprom storage.
 // (Requires the "Adafruit_NeoPixel" library. Code is inspired by this library's 'nodelay' example, modified for use on quadcopters)
 
