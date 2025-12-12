@@ -31,6 +31,11 @@ Next in the betaflight modes tab, select ranges for both USER1 and USER2, using 
 
 Once it’s all wired up, and both betaflight pinio’s are working properly, the LED strip should now be fully functional. If you would like to modify colors, change speed of patterns, use LED strips with more or less LEDs, read the sections below.
 
+## Wiki
+
+For more detailed info on wiring etc, have a look at the wiki:
+[Github](https://github.com/truglodite/neopixelNodelayButtonEEPROM/wiki)
+
 ## Contribute
 The main repository lives on [Github](https://github.com/truglodite/Wire-Wiggler-Firmware).
 
