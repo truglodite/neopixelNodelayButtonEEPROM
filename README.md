@@ -1,4 +1,4 @@
-# neopixelNodelayButtonEEPROM: Yet another neopixel control
+# neopixelNodelayButtonEEPROM: Yet another neopixel control... but this one works well on FPV aircraft. ;)
 This code was written for use with neopixel LED strips mounted on an FPV quadcopter. It has 2 inputs for use with betaflight PINIO to enable on/off as well as pattern control from the transmitter. Some patterns are already included, but the idea is to customize colors and patterns to suit your unique needs.
 
 ## Features
